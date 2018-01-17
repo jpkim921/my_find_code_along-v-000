@@ -7,5 +7,5 @@ def my_find(collection)
     return collection[i] if test_case
     i = i + 1
   end
-  false
+  nil
 end
